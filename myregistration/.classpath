@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Servlet All  JAr/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/Servlet All  JAr/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jdbc/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jlib/orai18n.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jlib/orai18n-mapping.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/dbui4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/ewt3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/inspect4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/jle3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/orai18n.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/orai18n-collation.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/orai18n-mapping.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/orai18n-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jlib/orai18n-utility.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/sqldeveloper-18.4.0-376.1900-x64/sqldeveloper/jdk/lib/tools.jar"/>
+	<classpathentry kind="lib" path="D:/Servlet All  JAr/ojdbc14.jar.zip"/>
+	<classpathentry kind="lib" path="D:/Servlet All  JAr/ojdbc14.jar/ojdbc14.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
